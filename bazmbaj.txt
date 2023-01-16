@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+//int getbaj(int a, int b)
+//{
+cout<< endl<< baj<< endl 
+ int bazm = a * b / baj 
+cout<< bazm<< endl
+
+//    if (b != 0)
+//        return getbaj(b, a % b);
+//    else
+//        return a;
+//}
