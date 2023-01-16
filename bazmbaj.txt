@@ -1,3 +1,5 @@
+•	Ստանալ տրված 2 թվերի ամենամեծ ընդհանուր բաժանարարը
+•	ամենափոքր ընդհանուր բազմապատիկը
 #include <iostream>
 using namespace std;
 //int getbaj(int a, int b)
